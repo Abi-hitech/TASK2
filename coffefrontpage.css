@@ -1,0 +1,22 @@
+.one{
+    background-image:url("backimage.jfif");
+    height:900px;
+    width:200%;
+}
+.c{
+    flex-grow: 1;
+    padding:20px;
+}
+.B{
+    font-style:bold;
+    font-size: x-large;
+    text-align: center;
+    text-decoration-thickness: 5PX;
+    word-spacing:10px;
+}
+.td{
+    color:bisque;
+    
+}
+
+
